@@ -10,7 +10,7 @@ Utilização de: JavaScrip, HTML, CSS e Regexr.com
 
 Desenvolvido para o trabalho da disciplina de Teoria da Computação 
 
-# testar
+# Testar
 Link de acesso: https://expressaoregularjs.netlify.app/
 
 

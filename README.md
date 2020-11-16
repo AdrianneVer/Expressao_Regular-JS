@@ -1,6 +1,7 @@
 # Expressao_Regular-JS
 
-Trabalho Prático I de um formulário básico para solicitação de dados 
+Trabalho Prático I - Desenvolvimento de um formulário básico para solicitação de dados 
+
 Expressão regular em JavaScrip
 
 Formulário -> Nome e sobrenome, E-mail, Senha, CPF, Telefone, Data e horário e Número com e sem sinal 
